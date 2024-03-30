@@ -1,0 +1,27 @@
+#EXTM3U
+#EXTINF:-1 tvg-name="Test Channel - 1" tvg-logo="" tvg-id="Test Channel - 1" group-title="Category - 1",Test Channel - 1
+https://live-par-2-cdn-alt.livepush.io/live/bigbuckbunnyclip/index.m3u8
+#EXTINF:-1 tvg-name="Test Channel - 2" tvg-logo="" tvg-id="Test Channel - 1" group-title="Category - 1",Test Channel - 2
+https://live-par-2-cdn-alt.livepush.io/live/bigbuckbunnyclip/index.m3u8
+#EXTINF:-1 tvg-name="Test Channel - 3" tvg-logo="" tvg-id="Test Channel - 1" group-title="Category - 1",Test Channel - 3
+https://live-par-2-cdn-alt.livepush.io/live/bigbuckbunnyclip/index.m3u8
+#EXTINF:-1 tvg-name="Test Channel - 4" tvg-logo="" tvg-id="Test Channel - 1" group-title="Category - 1",Test Channel - 4
+https://live-par-2-cdn-alt.livepush.io/live/bigbuckbunnyclip/index.m3u8
+#EXTINF:-1 tvg-name="Test Channel - 5" tvg-logo="" tvg-id="Test Channel - 1" group-title="Category - 2",Test Channel - 5
+https://live-par-2-cdn-alt.livepush.io/live/bigbuckbunnyclip/index.m3u8
+#EXTINF:-1 tvg-name="Test Channel - 6" tvg-logo="" tvg-id="Test Channel - 1" group-title="Category - 2",Test Channel - 6
+https://live-par-2-cdn-alt.livepush.io/live/bigbuckbunnyclip/index.m3u8 
+#EXTINF:-1 tvg-name="Test Channel - 7" tvg-logo="" tvg-id="Test Channel - 1" group-title="Category - 2",Test Channel - 7
+https://live-par-2-cdn-alt.livepush.io/live/bigbuckbunnyclip/index.m3u8
+#EXTINF:-1 tvg-name="Test Channel - 8" tvg-logo="" tvg-id="Test Channel - 1" group-title="Category - 2",Test Channel - 8
+https://live-par-2-cdn-alt.livepush.io/live/bigbuckbunnyclip/index.m3u8
+#EXTINF:-1 tvg-name="Test Channel - 9" tvg-logo="" tvg-id="Test Channel - 1" group-title="Category - 3",Test Channel - 9
+https://live-par-2-cdn-alt.livepush.io/live/bigbuckbunnyclip/index.m3u8
+#EXTINF:-1 tvg-name="Test Channel - 10" tvg-logo="" tvg-id="Test Channel - 1" group-title="Category - 4",Test Channel - 10
+https://live-par-2-cdn-alt.livepush.io/live/bigbuckbunnyclip/index.m3u8
+#EXTINF:-1 tvg-name="Test Channel - 11" tvg-logo="" tvg-id="Test Channel - 1" group-title="Category - 4",Test Channel - 11
+https://live-par-2-cdn-alt.livepush.io/live/bigbuckbunnyclip/index.m3u8
+#EXTINF:-1 tvg-name="Test Channel - 12" tvg-logo="" tvg-id="Test Channel - 1" group-title="Category - 4",Test Channel - 12
+https://live-par-2-cdn-alt.livepush.io/live/bigbuckbunnyclip/index.m3u8
+#EXTINF:-1 tvg-name="Test Channel - 13" tvg-logo="" tvg-id="Test Channel - 1" group-title="Category - 4",Test Channel - 13
+https://live-par-2-cdn-alt.livepush.io/live/bigbuckbunnyclip/index.m3u8
